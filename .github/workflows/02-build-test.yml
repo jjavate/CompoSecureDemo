@@ -9,7 +9,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: src/CompoSecureApp/ComposecureApp
+        working-directory: src/CompoSecureApp/CompoSecureApp
 
     steps:
       - uses: actions/checkout@v4
