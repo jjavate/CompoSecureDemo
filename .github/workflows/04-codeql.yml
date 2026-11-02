@@ -11,7 +11,11 @@ permissions:
 jobs:
   codeql:
     runs-on: ubuntu-latest
-
+    
+    defaults:
+      run:
+        working-directory: src/CompoSecureApp/CompoSecureApp
+      
     permissions:
       contents: read
       security-events: write
