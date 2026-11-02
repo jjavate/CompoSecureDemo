@@ -1,3 +1,3 @@
 # CompoSecureDemo
 
-CompoSecureDemo Test
+CompoSecureDemo Testing
